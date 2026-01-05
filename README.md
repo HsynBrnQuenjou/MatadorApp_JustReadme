@@ -351,9 +351,9 @@ final Map<String, Map<String, List<Map<String, dynamic>>>> sorular = {
 ### Destekleyen Kurum
 
 <p align="center">
-  <img src="https://tubitak.gov.tr/sites/default/files/tubitak_logo.png" width="200" />
+  <img src="https://tubitak.gov.tr/sites/default/files/tubitak_logo.png" width="100" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="/screenshots/logo4.png" width="200" />
+  <img src="/screenshots/logo4.png" width="400" />
 </p>
 
 ---

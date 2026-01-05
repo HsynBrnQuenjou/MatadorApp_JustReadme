@@ -353,7 +353,7 @@ final Map<String, Map<String, List<Map<String, dynamic>>>> sorular = {
 <div align="center">
   <img src="https://tubitak.gov.tr/sites/default/files/tubitak_logo.png" alt="TÜBİTAK" width="200">
   <br>
-  <img src="matador_app/screenshots/logo4.png" alt="BARIŞ YAYINLARI" width="200">
+  <img src="/screenshots/logo4.png" alt="BARIŞ YAYINLARI" width="200">
 </div>
 
 ---

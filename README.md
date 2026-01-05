@@ -350,11 +350,11 @@ final Map<String, Map<String, List<Map<String, dynamic>>>> sorular = {
 
 ### Destekleyen Kurum
 
-<div align="center">
-  <img src="https://tubitak.gov.tr/sites/default/files/tubitak_logo.png" alt="TÜBİTAK" width="200">
-  <br>
-  <img src="/screenshots/logo4.png" alt="BARIŞ YAYINLARI" width="200">
-</div>
+<p align="center">
+  <img src="https://tubitak.gov.tr/sites/default/files/tubitak_logo.png" width="200" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="/screenshots/logo4.png" width="200" />
+</p>
 
 ---
 
